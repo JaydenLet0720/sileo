@@ -3,7 +3,7 @@ Label: Jaydenn's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64e, iphoneos-arm64, iphoneos-arm
+Architectures: iphoneos-arm, iphoneos-arm64
 Components: main
 Description: Make iOS Less Boring!
 
