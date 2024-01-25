@@ -1,0 +1,12 @@
+Origin: Jaydenn's Repo
+Label: Jaydenn's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Make iOS Less Boring!
+
+SHA256:
+ 2448fb47a88489ae5c36297fa2cf5c3b672ddc3005395dc5a3d5943add3cef21 585 Packages.bz2
+ 1edfc373a0f6d6a54f64b1adcc799d5d310cb70eb08290c1f4ada1eea3885148 568 Packages.xz
